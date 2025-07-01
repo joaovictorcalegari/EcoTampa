@@ -22,6 +22,4 @@
     <string name="tampas_coletadas_placeholder">Tampas coletadas: 25</string>
     <string name="reset">RESET</string>
     <string name="aviso_reset">OBS: Tenha a certeza de que quer zerar a contagem. Essa ação NÃO pode ser desfeita!</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

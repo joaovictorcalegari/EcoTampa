@@ -12,28 +12,27 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Trabalho1_mobile_figma"
         tools:targetApi="31">
-
         <activity
-            android:name=".ActivityLogin"
+            android:name=".aposentadoriamt"
             android:exported="false" />
-
         <activity
-            android:name=".EsqueciActivity"
+            android:name=".activity_recuperar_senha"
             android:exported="false" />
-
         <activity
-            android:name=".CriarContaActivity"
+            android:name=".activity_criar_conta"
             android:exported="false" />
-
+        <activity
+            android:name=".activity_login"
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
     </application>
 
 </manifest>
